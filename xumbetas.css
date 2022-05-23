@@ -1,0 +1,57 @@
+.col {
+    border: 1px solid black;
+    width: 350px;
+    height:350px;
+    padding: 0px;
+}
+header {
+    text-align: center;
+}
+#a {
+    background-image: url(imgs/madeinheaven.png);
+    background-size: cover;
+}
+#b {
+    background-image: url(imgs/D4C2.png);
+    background-size: cover;
+}
+#c {
+    background-image: url(imgs/speed.jpg);
+    background-size: cover;
+}
+#d {
+    background-image: url(imgs/wonder.jpg);
+    background-size: cover;
+}
+#e {
+    background-image: url(imgs/world.jpg);
+    background-size: cover;
+}
+#f {
+    background-image: url(imgs/BlackmoreRain.jpeg);
+    background-size: cover;
+}
+#g {
+    background-image: url(imgs/In_a_Silent_Way_Infobox_Manga.png);
+    background-size: cover;
+}
+#h {
+    background-image: url(imgs/soft.jpg);
+    background-size: cover;
+}
+#i {
+    background-image: url(imgs/JumpinJackFlash.jpeg);
+    background-size: cover;
+}
+#j {
+    background-image: url(imgs/kraft.jpg);
+    background-size: cover;
+}
+#k {
+    background-image: url(imgs/Ballbreakercor.jpeg);
+    background-size: cover;
+}
+#l {
+    background-image: url(imgs/UnderworldP.jpeg);
+    background-size: cover;
+}
